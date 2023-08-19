@@ -37,7 +37,7 @@
 #### Finished you have successfully downloaded DDos-Tool now to launch!
 
 * `cd RZCA-DDoS-V3`
-* `java rz.jave`
+* `java rz.java`
 
 -----
 ## Dependencies
