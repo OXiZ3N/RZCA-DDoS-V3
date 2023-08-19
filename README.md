@@ -23,6 +23,9 @@
 * `sudo apt install git`
 * `sudo apt install default-jdk `
 * `git clone https://github.com/OXiZ3N/RZCA-DDoS-V3.git`
+* `cd RZCA-DDoS-V3`
+* `java rz.java`
+
 
 ### Installing
 
