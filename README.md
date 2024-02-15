@@ -1,4 +1,4 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/OXiZ3N/L0g0/main/logo.png"/>
+<img width="99.9%" src=""/>
 
 
 
